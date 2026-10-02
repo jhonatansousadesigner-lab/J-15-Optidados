@@ -1,0 +1,6 @@
+{
+  "name": "B-15 Optidados",
+  "description": "ERP especializado em gestão óptica, pupilômetro digital por foto, consultor de lentes 20/20, gestão de O.S. e CRM com cashback.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
